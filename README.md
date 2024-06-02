@@ -20,7 +20,7 @@ A desktop Application which includes the basic functionalities of bank systems.
 ### [Project 2: Calculator][(https://github.com/yourusername/health-tracker)](https://github.com/kklt969/Calculator)]
 A functioning calculator for desktop.
 
-### [Project 3: Employee Information System App][(https://github.com/yourusername/educational-platform)](https://github.com/kklt969/Employee-DB)]
+### [Project 3: Employee Information System App][(https://github.com/kklt969/Employee-DB)]
 An Employee Information Mangement desktop app written in java for practical use.
 
 ## Skills and Technologies 🛠️
